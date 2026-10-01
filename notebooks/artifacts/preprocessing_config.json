@@ -37,7 +37,7 @@
   ],
   "k_linear": "all",
   "k_tree": 5000,
-  "split_cutoff": "2026-04-02",
+  "split_cutoff": "2026-05-13",
   "dropped_columns": {
     "INFRACTION_CODE4": "empty (100% missing)",
     "SECTION_LAW_DESCRIPTION4": "empty (100% missing)",
